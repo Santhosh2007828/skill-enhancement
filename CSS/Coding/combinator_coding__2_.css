@@ -1,0 +1,23 @@
+div {
+    background-color: red;
+    color: blanchedalmond;
+    padding: 30px;
+    text-align: center;
+}
+div:hover{
+    background-color: bisque;
+    color: black;
+    margin: 50px;
+
+}
+input:focus{
+    background-color: brown;
+    color: beige;
+    margin: 30px;;
+}
+
+p:active{
+    background-color: aqua;
+    text-align: center;
+    
+}

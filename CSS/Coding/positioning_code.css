@@ -1,0 +1,11 @@
+div {
+    background-color: red;
+    color: blanchedalmond;
+    padding: 30px;
+    text-align: center;
+}
+div:hover{
+    background-color: bisque;
+    color: black;
+    padding: 50px;;;
+}
